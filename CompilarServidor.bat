@@ -1,0 +1,1 @@
+g++ .\include\*.cpp .\servidor.cpp -o main -l ws2_32
